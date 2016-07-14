@@ -1,0 +1,3 @@
+create.UserDetails.json= {"id": 1,"username": "varsha","firstName": "prabhakar","lastName": "muger","email": "junkmailid@gmail.com","password": "petstore","phone": "123654789", "userStatus": 1}
+create.UserDetailsWithArray.json = [{"id": 2,"username": "varsha","firstName": "prabhakar","lastName": "muger","email": "junkmailid@gmail.com","password": "petstore","phone": "123654789", "userStatus": 1}]
+create.UserDetailsWithList.json = [{"id": 3,"username": "varsha","firstName": "prabhakar","lastName": "muger","email": "junkmailid@gmail.com","password": "petstore","phone": "123654789", "userStatus": 1}]

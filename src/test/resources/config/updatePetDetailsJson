@@ -1,0 +1,1 @@
+update.petDetails.json={"id":1,"category": {"id": 1,"name": "string"},"name":"doggieName","photoUrls": ["string"],"tags": [{"id": 0,"name": "string"}],"status": "available"}
